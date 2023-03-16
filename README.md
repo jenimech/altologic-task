@@ -9,7 +9,8 @@ And follow the instructions
 
 ## Example of execution:
 
-➜  altologic-task git:(master) ✗ ruby model/main.rb
+```
+>>  altologic-task git:(master) ✗ ruby model/main.rb
 This is a small app to test inputs and outputs, lets started!
 Do you want to enter an new Item? Y/n
 Y
@@ -61,3 +62,4 @@ n
 1 chocolate bar: 0.85
 Sales Taxes: 1.5
 Total: 42.32
+```
